@@ -3,3 +3,5 @@ Company Name: ABC Ltd
 Location: Pune 
 
 About: We provide IT training and placements.
+
+From Sanket
